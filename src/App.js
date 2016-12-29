@@ -38,7 +38,7 @@ class App extends Component {
   render() {
     return (
       <div className="ui container">
-        <h1>React + Star Wars API</h1>
+        <h1>Inferno + Star Wars API</h1>
 
         <h2 className="ui header">
           <div className="content">
