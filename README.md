@@ -6,7 +6,7 @@ This project was created using [Create Inferno App](https://github.com/infernojs
 
 Using [Inferno](https://github.com/infernojs/inferno), a blazing fast alternative to [react](https://facebook.github.io/react/).
 
-This project is a [ port of my [Vue.js Star Wars repository](https://github.com/markpritchett/vuejs-star-wars)
+This project is a [Inferno](https://github.com/infernojs/inferno) port of my [Vue.js Star Wars repository](https://github.com/markpritchett/vuejs-star-wars)
 
 Install dependencies:
 
